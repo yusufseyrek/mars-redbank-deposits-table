@@ -1,0 +1,4 @@
+.table {
+  @apply p-4 w-full border-separate text-left
+	[&>thead]:border-b-2 border-black border-solid;
+}
